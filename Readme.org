@@ -1,0 +1,13 @@
+#+BEGIN_SRC R
+dat1.toc <- read.table("dat1_20160811.txt", sep = "/")
+dat1.toc$V2 <- dat1.toc$V2 + 6
+dat1.toc[1,2] <- 4
+
+write.table(dat1.toc, "dat1_20160811jav.txt", sep = "/", row = FALSE, col = FALSE, quot = FALSE)
+#+END_SRC
+
+
+#+BEGIN_SRC sh
+jpdfbookmarks dat1_20160811.pdf --apply dat1_20160811.txt --out dat1_20160811toc.pdf
+jpdfbookmarks dat1-m1_20160811.pdf --apply dat1-m1_20160811.txt --out dat1-m1_20160811toc.pdf
+#+END_SRC
