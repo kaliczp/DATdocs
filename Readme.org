@@ -10,4 +10,5 @@ write.table(dat1.toc, "dat1_20160811jav.txt", sep = "/", row = FALSE, col = FALS
 #+BEGIN_SRC sh
 jpdfbookmarks dat1_20160811.pdf --apply dat1_20160811.txt --out dat1_20160811toc.pdf
 jpdfbookmarks dat1-m1_20160811.pdf --apply dat1-m1_20160811.txt --out dat1-m1_20160811toc.pdf
+jpdfbookmarks DAT1-M1_20180427.pdf --apply DAT1-M1_20180427.txt --out DAT1-M1_20180427toc.pdf
 #+END_SRC

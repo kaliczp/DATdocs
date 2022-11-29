@@ -1,0 +1,20 @@
+1. Bevezetés/2
+2. Rövidítések, adattípusok és a dátumok formátuma/3
+3. Az adatok kötelező és a választható használatának értelmezése/4
+4. DAT adatcsere-formátum/6
+A. függelék Geometriai alapelemek és topológiájuk táblázatai/7
+	T_PONT Pont geometriai alapelemek táblázata/8
+	T_VONAL Vonal geometriai alapelemek táblázata/9
+	T_HATARVONAL Határvonal geometriai alapelemek táblázata/10
+	T_HATAR Határ geometriai alapelemek táblázata/11
+	T_FELULET Felület geometriai alapelemek táblázata/12
+	T_OSSZEKOT_IV Pontok összekötése adatainak táblázata/13
+	T_MEGSZ_DATUMG Geometriai alapelem adatrekordok érvényessége/13
+B. függelék Az objektumokat leíró táblázatok/14
+C. függelék Adatminőségi jellemzők táblázatai/54
+D. függelék Az objektumok és attribútumaik osztályozásának kódtáblázatai/67
+E. függelék Gyűjtőtáblázatok/76
+F. függelék Kódtáblázatok/93
+G. függelék DAT adatcsere-formátum/153
+	Adatcsere-formátum táblázatai/155
+	A táblázatok kitöltését segítő néhány általános megjegyzés/158
