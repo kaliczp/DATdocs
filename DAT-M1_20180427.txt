@@ -94,6 +94,74 @@ E. függelék Gyűjtőtáblázatok/76
 	T_SZEMELY Személyek adatainak táblázata/91
 	T_SZIMBOLUM Jelkulcsi jelek elforgatási és elhelyezési adatainak gyűjtőtáblázata/57
 F. függelék Kódtáblázatok/93
+	T_ADATGY1 DAT előállítási és aktualizálási szemléletek kódtáblázata/95
+	T_ADATGY2 Geometriai terepi adatnyerés eszközeinek kódtáblázata/95
+	T_ADATGY3 Geometriai irodai adatnyerés eszközeinek kódtáblázata/95
+	T_ADATGY4 Attribútumadatok gyűjtésének kódtáblázata/96
+	T_ALAPAD_JELL Alapadatok jellegének kódtáblázata/96
+	T_ALLAPOT Vízszintes és magassági alappontok, iránypontjaik vagy őrpontjaik állapotának kódtáblázata/96
+	T_ANYAG_BURK Közlekedési létesítmény (legtöbbször burkolat) jellemző anyagának kódtáblázata/97
+	T_ANYAG_EP Épületek és tartozékaik jellemző anyagának kódtáblázata/97
+	T_ATHID_AKAD Áthidalt akadály vagy átsegített forgalom típusának kódtáblázata/98
+	T_ATHID_ALLAPOT Áthidaló közlekedési műtárgyak komplex állapotának kódtáblázata/98
+	T_ATHID_SZERK Áthidalások szerkezeti rendszereinek kódtáblázata/99
+	T_BECSLOJARAS Becslőjárások kódtáblázata/99
+	T_CEG_SZEREP Cégek DAT-hoz kapcsolódó szerepének kódtáblázata/103
+	T_ELHAT_JELL Elhatárolás jellegének kódtáblázata/104
+	T_ELHAT_MOD Elhatárolás módjának kódtáblázata/104
+	T_EOI_HELYISEG EÖI helyiségek megnevezéseinek kódtáblázata/104
+	T_EOI_TULFORM EÖI tulajdoni formák kódtáblázata/105
+	T_EPULET_ALT Épületek funkcionális altípusainak kódtáblázata/105
+	T_EPULET_TIP Épületek ingatlan-nyilvántartási típusainak kódtáblázata/106
+	T_FEKVES Fekvések kódtáblázata/107
+	T_FELIRAT_JELLEG Felirat jellegek kódtáblázata/108
+	T_FONT Betűtípusok (fontok) kódtáblázata/109
+	T_GEOM Objektum-kiterjedéshez tartozó "geometriai alapelem táblázat" kódtáblázata/110
+	T_HASZN_KORL Használatkorlátozások kódtáblázata/110
+	T_JELKULCS Jelkulcsok kódtáblázata/110
+	T_JOGALLAS Jogállás kódtáblázat/112
+	T_JOGI_JELLEG Jogi jellegek kódtáblázata/113
+	T_JOGSZ_UTASITAS Jogszabályi utasítások kódtáblázata/114
+	T_KORLAT Építési korlátozások szövegeinek kódtáblázata/115
+	T_KORZETI_FH Körzeti földhivatalok kódtáblázata/115
+	T_KOZEPHIBA A geodéziai pontok megengedett középhibáinak kódtáblázata/118
+	T_KOZTER_JELL Közterület jelleg kódtáblázata/119
+	T_KOZTER_NEV Közterület nevek kódtáblázata/122
+	T_KOZUTI_AZ Közúti azonosító pontok típusainak kódtáblázata/122
+	T_KSH_KOZIG Közigazgatási egységek KSH kódtáblázata/123
+	T_LETESITM_T Létesítmények jellemző teljesítményadatainak kódtáblázata/124
+	T_MAG_ALLAND Magassági alappontok állandósítási módjának kódtáblázata/125
+	T_MAG_ALLANDFA Föld alatti magassági pontok állandósítási módjának kódtáblázata/125
+	T_MEGHAT_MOD Geodéziai pontok meghatározási módjának kódtáblázata/126
+	T_MEGYEI_FH Megyei földhivatalok kódtáblázata/126
+	T_MINOSEG_OSZT Minőségi osztályok kódtáblázata/127
+	T_MERETARANY Térképi méretarányok kódtáblázata/127
+	T_MUVEL_AG Művelési ágak kódtáblázata/129
+	T_MUVELET_TARGY DAT-ban végezhető műveletek tárgyainak kódtáblázata/129
+	T_MUVELET_TIP DAT-ban az engedélyezett műveletek típusainak kódtáblázata/130
+	T_OSSZEKOT_KOD Összekötés módjának kódtáblázata/130
+	T_PONTVEDO Vízszintes alappontok pontvédő berendezéseinek kódtáblázata/131
+	T_REPTER_OSZT Légiforgalmi létesítmények osztálybasorolásának kódtáblázata/131
+	T_REPTER_TIP Légiforgalmi létesítmény típusainak kódtáblázata/132
+	T_RESZLET_ALLAND Részletpontok állandósítási módjának kódtáblázata/132
+	T_SZAK_NEV Létesítmények szakterületi számának és nevének kódtáblázata/133
+	T_SZEMELY_SZEREP Személyek DAT-hoz kapcsolódó szerepének kódtáblázata/134
+	T_SZERV_TIP Szervezet típusok kódtáblázata/135
+	T_SZERZES_JOG Szerzési jogcímek kódtáblázata/136
+	T_SZINT Épület- illetve lakásszintek kódtáblázata/141
+	T_SZOLG_JOG Szolgalmi jogok kódtáblázata/141
+	T_TEHER_JELZALOG Terhelés típusok (terhek, jelzálog) kódtáblázata/142
+	T_VALUTA Valuta nemek kódtáblázata/143
+	T_VASUT_TIP Vasúti típusok kódtáblázata/144
+	T_VED_SAV Védelmi sávok jellegét és adatait leíró szövegek kódtáblázata/145
+	T_VETULET Vetületi rendszerek kódtáblázata/146
+	T_VEZETEK_ALCS Vezetékek alcsoportjainak kódtáblázata/146
+	T_VIZSZ_ALLAND Vízszintes alappontok állandósítási módjának kódtáblázata/147
+	T_VOBJ_EGYED Vízügyi objektumazonosító kódból az egyedi azonosító kódok táblázata/149
+	T_VOBJ_FO_AL Vízügyi objektumazonosító kódból a főcsoportok és az alcsoportok kódtáblázata/149
+	T_VOBJ_NEVADO Vízügyi objektumazonosító kódból a névadó gazda kódok táblázata/150
+	T_VOBJ_RTERULET Vízügyi objektumazonosító kódból a részterület kódok táblázata/151
+	T_VONATK_R Vonatkozási rendszerek elnevezéseinek kódtáblázata/152
 G. függelék DAT adatcsere-formátum/153
 	Adatcsere-formátum táblázatai/155
 	A táblázatok kitöltését segítő néhány általános megjegyzés/158
