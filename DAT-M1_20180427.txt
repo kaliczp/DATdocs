@@ -60,8 +60,39 @@ B. függelék Az objektumokat leíró táblázatok/14
 		T_OBJ_ATTRIB EOV rendszerbe transzformálható raszteres állományok és attribútumaik táblázata/52
 		T_OBJ_ATTRIC Egyéb, nem transzformálandó raszteres állományok és attribútumaik táblázata/53
 C. függelék Adatminőségi jellemzők táblázatai/54
+	T_AHASZN_REG Tényleges adathasználat regisztrálandó adatainak táblázata/55
+	T_ATTRBIZN Attribútumféleségek meghatározási bizonytalanságának táblázata/56
+	T_ATTRELTER Attribútumértékek eltérési minőségadatainak táblázata/57
+	T_BIZALOM Bizalmas adatkezelés adatainak táblázata/58
+	T_DAT_KORL DAT-táblázatok és konkrét objektumok használatkorlátozási adatainak táblázata/59
+	T_EREDET Eredet adatminőségi jellemzőinek gyűjtőtáblázata/60
+	T_HITELES Hitelesítés és állami átvétel adatainak táblázata/61
+	T_KONZISZT Adatkonzisztencia jellemzőinek táblázata/62
+	T_MUVELET_REG DAT-ban végzett műveletek regisztrálandó adatainak táblázata/63
+	T_OSADATAL12 Ősadatállomány minőségadatainak táblázata/64
+	T_TELJESSEG Adatok teljességét leíró táblázat/66
 D. függelék Az objektumok és attribútumaik osztályozásának kódtáblázatai/67
+	T_ATTR_CSOP Attribútumok csoportjainak kódtáblázata/68
+	T_OBJ_CSOP Objektumcsoportok kódtáblázata/69
+	T_OBJ_FELS Objektumféleségek kódtáblázata/70
+	T_OBJ_OSZT Objektumosztályok kódtáblázata/75
 E. függelék Gyűjtőtáblázatok/76
+	T_CEG Cégek adatainak táblázata/77
+	T_CIM Postacímek táblázata/78
+	T_CIM_KULFOLD Külföldi címek táblázata/79
+	T_FELIRAT Magyarázó szövegek, feliratok és névrajzi megírások táblázata/80
+	T_FOLDRTULAJ_GY Földrészlettulajdonosok és tulajdonhányadaik gyűjtőtáblázata/81
+	T_HELYREALL_GY Alappontok helyreállítási adatainak gyűjtőtáblázata/82
+	T_HELYREALL_GYIO Iránypontok és őrpontok helyreállítási adatainak gyűjtőtáblázata/83
+	T_HELYSZIN_GY Alappontok helyszínelési adatainak gyűjtőtáblázata/84
+	T_HELYSZIN_GYIO Iránypontok és őrpontok helyszínelési adatainak gyűjtőtáblázata/85
+	T_IRANYPONT_GY Vízszintes alappontok iránypontjainak gyűjtőtáblázata/86
+	T_MAS_RENDSZER_GY Más (pl. régi) rendszerű koordináták és magasságok gyűjtőtáblázata/87
+	T_META Meta adatok gyűjtőtáblázata/88
+	T_MUVMIN_FOKOZAT Művelési ág és minőségi osztály szerinti fokozattábla/89
+	T_ORPONT_GY Magassági alappontok őrpontjainak gyűjtőtáblázata/90
+	T_SZEMELY Személyek adatainak táblázata/91
+	T_SZIMBOLUM Jelkulcsi jelek elforgatási és elhelyezési adatainak gyűjtőtáblázata/57
 F. függelék Kódtáblázatok/93
 G. függelék DAT adatcsere-formátum/153
 	Adatcsere-formátum táblázatai/155
